@@ -559,6 +559,7 @@ class TitleState extends MusicBeatState
 					addMoreText('Shadow Mario', 15);
 					addMoreText('RiverOaken', 15);
 					addMoreText('bb-panzu', 15);
+					addMoreText('And Lost Memories Team', 15);
 					#else
 					addMoreText('present');
 					#end
@@ -575,7 +576,7 @@ class TitleState extends MusicBeatState
 					#else
 					createCoolText(['In association', 'with'], -40);
 					#end
-				case 7:
+				case 8:
 					addMoreText('newgrounds', -40);
 					ngSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
@@ -600,13 +601,13 @@ class TitleState extends MusicBeatState
 				case 13:
 					addMoreText('Friday');
 				// credTextShit.visible = true;
-				case 14:
+				case 15:
 					addMoreText('Night');
 				// credTextShit.text += '\nNight';
-				case 15:
+				case 17:
 					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
 
-				case 16:
+				case 18:
 					skipIntro();
 			}
 		}
