@@ -580,14 +580,14 @@ class TitleState extends MusicBeatState
 					addMoreText('newgrounds', -40);
 					ngSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
-				case 8:
+				case 9:
 					deleteCoolText();
 					ngSpr.visible = false;
 				// credTextShit.visible = false;
 
 				// credTextShit.text = 'Shoutouts Tom Fulp';
 				// credTextShit.screenCenter();
-				case 9:
+				case 10:
 					createCoolText([curWacky[0]]);
 				// credTextShit.visible = true;
 				case 11:
@@ -598,16 +598,16 @@ class TitleState extends MusicBeatState
 				// credTextShit.visible = false;
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
-				case 13:
+				case 14:
 					addMoreText('Friday');
 				// credTextShit.visible = true;
-				case 15:
+				case 16:
 					addMoreText('Night');
 				// credTextShit.text += '\nNight';
-				case 17:
+				case 18:
 					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
 
-				case 18:
+				case 19:
 					skipIntro();
 			}
 		}
