@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gaster ORIGINAL.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gaster DOWN0000" x="0" y="0" width="424" height="622" frameX="0" frameY="0" frameWidth="425" frameHeight="622"/>
+	<SubTexture name="Gaster DOWN0001" x="0" y="0" width="424" height="622" frameX="0" frameY="0" frameWidth="425" frameHeight="622"/>
+	<SubTexture name="Gaster DOWN0002" x="0" y="0" width="424" height="622" frameX="0" frameY="0" frameWidth="425" frameHeight="622"/>
+	<SubTexture name="Gaster DOWN0003" x="0" y="0" width="424" height="622" frameX="0" frameY="0" frameWidth="425" frameHeight="622"/>
+	<SubTexture name="Gaster DOWN0004" x="424" y="0" width="416" height="622" frameX="-9" frameY="0" frameWidth="425" frameHeight="622"/>
+	<SubTexture name="Gaster IDLE0000" x="840" y="0" width="364" height="600" frameX="-13" frameY="0" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0001" x="1204" y="0" width="367" height="573" frameX="-10" frameY="-25" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0002" x="1571" y="0" width="370" height="545" frameX="-7" frameY="-50" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0003" x="1941" y="0" width="374" height="520" frameX="-3" frameY="-73" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0004" x="2315" y="0" width="377" height="496" frameX="0" frameY="-97" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0005" x="2692" y="0" width="375" height="515" frameX="-2" frameY="-78" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0006" x="3067" y="0" width="372" height="535" frameX="-5" frameY="-59" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0007" x="3439" y="0" width="369" height="556" frameX="-8" frameY="-40" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0008" x="0" y="622" width="366" height="578" frameX="-11" frameY="-20" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster IDLE0009" x="366" y="622" width="364" height="600" frameX="-13" frameY="0" frameWidth="377" frameHeight="600"/>
+	<SubTexture name="Gaster LEFT0000" x="730" y="622" width="475" height="626"/>
+	<SubTexture name="Gaster LEFT0001" x="730" y="622" width="475" height="626"/>
+	<SubTexture name="Gaster LEFT0002" x="730" y="622" width="475" height="626"/>
+	<SubTexture name="Gaster LEFT0003" x="730" y="622" width="475" height="626"/>
+	<SubTexture name="Gaster LEFT0004" x="1205" y="622" width="466" height="626" frameX="0" frameY="0" frameWidth="475" frameHeight="626"/>
+	<SubTexture name="Gaster RIGHT0000" x="1671" y="622" width="459" height="615"/>
+	<SubTexture name="Gaster RIGHT0001" x="1671" y="622" width="459" height="615"/>
+	<SubTexture name="Gaster RIGHT0002" x="1671" y="622" width="459" height="615"/>
+	<SubTexture name="Gaster RIGHT0003" x="1671" y="622" width="459" height="615"/>
+	<SubTexture name="Gaster RIGHT0004" x="2130" y="622" width="445" height="615" frameX="-10" frameY="0" frameWidth="459" frameHeight="615"/>
+	<SubTexture name="Gaster UP0000" x="2575" y="622" width="393" height="624"/>
+	<SubTexture name="Gaster UP0001" x="2575" y="622" width="393" height="624"/>
+	<SubTexture name="Gaster UP0002" x="2575" y="622" width="393" height="624"/>
+	<SubTexture name="Gaster UP0003" x="2575" y="622" width="393" height="624"/>
+	<SubTexture name="Gaster UP0004" x="2968" y="622" width="370" height="624" frameX="-9" frameY="0" frameWidth="393" frameHeight="624"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gaster IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gaster RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Gaster DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gaster UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				481,
+				130
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Gaster LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gaster TEST FIXED",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

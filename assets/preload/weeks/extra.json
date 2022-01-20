@@ -1,0 +1,25 @@
+{
+	"storyName": "fun 66",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "gaster",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Ordinary Cover",
+			"dad",
+			[
+				56,
+				56,
+				56
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "extra"
+}

@@ -283,8 +283,8 @@ class TitleState extends MusicBeatState
 		logoBl.animation.addByPrefix('bump', 'logo bumin other edit', 24, false);
 		logoBl.animation.play('bump');
 		logoBl.updateHitbox();
-		logoBl.screenCenter(X);
-		logoBl.screenCenter(Y);
+		// logoBl.screenCenter(X);
+		// logoBl.screenCenter(Y);
 		// logoBl.color = FlxColor.BLACK;
 		
 		add(logoBl);
@@ -311,7 +311,7 @@ class TitleState extends MusicBeatState
 		titleText.animation.addByPrefix('press', "ENTER PRESSED", 24);
 		titleText.antialiasing = ClientPrefs.globalAntialiasing;
 		titleText.animation.play('idle');
-		titleText.updateHitbox();
+		// titleText.updateHitbox();
 		// titleText.screenCenter(X);
 		add(titleText);
 
