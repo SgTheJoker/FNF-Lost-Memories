@@ -701,6 +701,18 @@ class PlayState extends MusicBeatState
 			}
 		}
 
+		if(curStage == 'stage') {
+			phillyCityLightsEvent = new FlxTypedGroup<BGSprite>();
+			for (i in 0...5)
+			{
+				var light:BGSprite = new BGSprite('cosita/stagefront' + i, -650, 600, 0.9, 0.9);
+				light.visible = false;
+				light.setGraphicSize(Std.int(light.width * 0.85));
+				light.updateHitbox();
+				phillyCityLightsEvent.add(light);
+			}
+		}
+
 
 		// "GLOBAL" SCRIPTS
 		#if LUA_ALLOWED
