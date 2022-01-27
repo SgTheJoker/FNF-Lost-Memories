@@ -1,0 +1,34 @@
+{
+	"storyName": "fun 66",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"forgotten",
+			"dad",
+			[
+				56,
+				56,
+				56
+			]
+		],
+		[
+			"null",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "gaster"
+}
