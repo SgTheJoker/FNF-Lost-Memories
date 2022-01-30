@@ -45,6 +45,8 @@ typedef TitleData =
 	starty:Float,
 	gfx:Float,
 	gfy:Float,
+	bgx:Float,
+	bgy:Float,
 	backgroundSprite:String,
 	bpm:Int
 }
@@ -242,7 +244,7 @@ class TitleState extends MusicBeatState
 		Conductor.changeBPM(titleJSON.bpm);
 		persistentUpdate = true;
 
-		var bg:FlxSprite = new FlxSprite();
+		var bg:FlxSprite = new FlxSprite(titleJSON.bgx, titleJSON.bgy);
 		
 		if (titleJSON.backgroundSprite != null && titleJSON.backgroundSprite.length > 0 && titleJSON.backgroundSprite != "none"){
 			bg.loadGraphic(Paths.image(titleJSON.backgroundSprite));
