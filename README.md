@@ -13,8 +13,8 @@ O el Del [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/blob/main
 
 # Creditos Del Mod 
 * Fz_Green - Compositor, Artista Y Director Del Mod
-* SgTheJoker - Codigo, Co-Artista Y Co-Director Del Mod
-* Masker - Compositor De Null Y Co-Artista
+* SgTheJoker - Codigo, Artista Y Co-Director Del Mod
+* Masker - Compositor De Null Y Artista
 
 # Play Tester:
 * SgTheJoker
