@@ -352,7 +352,7 @@
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": false,
-		"speed": 1,
+		"speed": 0.7,
 		"bpm": 100
 	}
 }
