@@ -186,3 +186,25 @@ class MasterEditorMenu extends MusicBeatState
 	}
 	#end
 }
+//hola se que es raro que oculte cosas aca
+//pero antes que les de la ultima pieza, le voy a contar la historia de este mod
+//yo conoci a Fz_Green (o green para los panas) por alla a incios del 2022 en un grupos de amigos del liceo
+//cuando vi que estaba haciendo un mod le pregunte si podia ayudarle con su mod, le mostre una cosa que hice y me dijo que si
+//despues de eso, empezamos a trabajar como locos, haciendo conceptos, ideas y programando
+//tambien el me hizo conocer personas, como a masker, Y a voiid, asi que le agradesco a el por haberme presentado a ustedes y a la comunidad
+//despues de que se nos uniera masker seguimos trabando, y despues ya teniamos 2 canciones hechas, pero no charteadas
+//mientras pasaban los dias y meses no sabiamos que hacer la verdad, teniamos un menu con cancion, 2 canciones sin chartear y
+//una extra que seria un cover
+//despues, paso lo inesperado, un dia, mi disco duro secundario simplemente murio, alli tenia los ultimos cambios
+//asi que tuve que re-hacerlos con los cambios que tenia en el github que me ayudo un poco
+//despues siguieron los meses, cuando green y masker empezaron a hacer sus mods corrupted (el de pibby y el de amongus)
+//fue cuando el proyecto murio, despues de unos meses (si green vee esto corrigeme porfa), me dijo que quitara el video de lost memories de mi canal
+//el me dijo que ya estaba cancelado el mod, y que lo iban a re-hacer (osea, el mod de pibby) asi que lo puse en privado
+//el mod se quedo aqui en github en privado y en mi computadora hasta el dia que escribo esto
+//la verdad quisiera que este mod se hubiera terminando, hubiera sido mi primer trabajo en un mod completo (aun que ese titulo al final se lo quedo voiid sides)
+//Le agradezco nuevamente a green por haberme presentado a voiid ya que o si no no estaria aqui hoy
+//la verdad no puedo imaginar que hubiera sido si no hubiera conocido a green
+// Se despide, [SG] The Joker
+//
+//ya saben que hacer
+// QK30IKZ
